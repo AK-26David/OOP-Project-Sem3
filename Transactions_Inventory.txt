@@ -1,0 +1,165 @@
+Current Date: Aug 5, 2020
+ 
+Pick up Date: May 1, 2013
+Return Date: Jul 29, 2018 = Days: 448
+Full Name: Type First Nxcame Here Type Last Namsdfe Here
+Age: 29
+Location: sdfsdfType Complete Address Here
+Contact: Type sdf Number Here
+Car: Bus-2007
+Total Rent Price: 313600.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 6, 2013 = Days: 5
+Full Name: Nikhil Nair
+Age: 22
+Location: Block 15, MIT, Manipal, India
+Contact: 9036237930
+Car: Van-2009
+Total Rent Price: 2500.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Dec 4, 2023
+Return Date: Jan 6, 2024 = Days: 32
+Full Name: Nikhil Nair
+Age: 19
+Location: Block-15, MIT, Manipal, Eshwar Nagar
+Contact: 9036237930
+Car: Van-2009
+Total Rent Price: 16000.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 8, 2024 = Days: 7
+Full Name: sda njbjb
+Age: 52
+Location: bnbn
+Contact: bnbnb
+Car: Bus-2007
+Total Rent Price: 4900.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 1, 2024 = Days: 0
+Full Name: wdw jkj
+Age: 52
+Location: jkj
+Contact: kj
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 5, 2024 = Days: 4
+Full Name: mknkjn nknkn
+Age: 25
+Location: nknkn
+Contact: nknkn
+Car: Bus-2007
+Total Rent Price: 2800.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 1, 2024 = Days: 0
+Full Name: kmm mkmk
+Age: 52
+Location: km
+Contact: mkm
+Car: Van-2009
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 1, 2024 = Days: 0
+Full Name: mmmlm Type Last Name Herelmlm
+Age: 52
+Location: Type Complete Address Herelml
+Contact: Type Contact Number Heremm
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 1, 2024 = Days: 0
+Full Name: ml,m mlm
+Age: 52
+Location: mlm
+Contact: m
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 1, 2024 = Days: 0
+Full Name: mkmdflmv mkmkm
+Age: 52
+Location: kmkm
+Contact: kmkm
+Car: SuperCar-Aventador
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Apr 7, 2024 = Days: 96
+Full Name: Nikhil Nair
+Age: 52
+Location: Block-15, MIT, Manipal, Karnataka
+Contact: 9036237930
+Car: SuperCar-Aventador
+Total Rent Price: 1920000.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 4, 2024 = Days: 3
+Full Name: ,vm bndJ NKJNVKJ
+Age: 52
+Location: XKNJVNSFNL
+Contact: LKNDVLN
+Car: SuperCar-Aventador
+Total Rent Price: 60000.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 5, 2024 = Days: 4
+Full Name: Nikhil Nair
+Age: 52
+Location: manipal
+Contact: 9036237930
+Car: SUV-AMG G63
+Total Rent Price: 20000.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 1, 2024 = Days: 0
+Full Name: sdf sdf
+Age: 52
+Location: dsf
+Contact: sdf
+Car: Sedan-S3
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 1, 2024 = Days: 0
+Full Name: dfs nkjn
+Age: 52
+Location: klcvjld
+Contact: lnslcvn sldfjvlsf
+Car: Sedan-S3
+Total Rent Price: 0.00 
+--------------------------------------------------
