@@ -1,0 +1,33 @@
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 2, 2024 = Days: 1
+Full Name: kndflsk nklfnv
+Age: 52
+Location: .mfnv
+Contact: mfvmd
+Car: SuperCar-Aventador
+Total Rent Price: 20000.00 
+--------------------------------------------------
+Current Date: Jan 3, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 3, 2024 = Days: 2
+Full Name: Nikhil Nair
+Age: 44
+Location: fdsfb
+Contact: 9036237930
+Car: SUV-AMG G63
+Total Rent Price: 10000.00 
+--------------------------------------------------
+Current Date: Jan 1, 2022
+ 
+Pick up Date: Jan 1, 2024
+Return Date: Jan 3, 2024 = Days: 2
+Full Name: fv jnbjn
+Age: 52
+Location: fdfg
+Contact: 1516
+Car: SUV-AMG G63
+Total Rent Price: 10000.00 
+--------------------------------------------------
